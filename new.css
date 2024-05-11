@@ -37,17 +37,18 @@ p {
 
 @media (max-width: 768px) {
   .name {
-    margin-top: 50px;
+    margin-top: -40px;
   }
 }
 
 @media (max-width: 576px) {
   #card2 {
-    width: 200px;
+    width: 200px; 
     /* Adjust width as needed */
     height: 150px;
     /* Adjust height as needed */
     margin-left: 10%;
+    margin-top: -150px;
   }
 
   #card2 img {
